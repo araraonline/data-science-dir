@@ -6,7 +6,8 @@ Project structure:
 │   ├── pre                   preprocessed data (ready to analyse)
 │   ├── process               processed data
 │   ├── interim               data used in intermediate processes
-│   └── external              data from external sources
+│   ├── external              data from external sources
+│   └── flags                 empty files used to control Make
 │
 ├── src                       source code root
 │   └── data
